@@ -1,0 +1,36 @@
+#square-container{
+    border: 1px white solid;
+    margin:auto;
+    min-height: 341px;
+    width: 341px;
+    background-color: white;
+}
+
+button {
+    width: 111px;
+    height: 111px;
+    margin: auto;
+    background-color:pink;
+    color: purple;
+    font-size: 50px;
+    text-align: center;
+}
+
+#turn-text {
+    font-family: Verdana, 
+        Geneva, Tahoma, sans-serif;
+
+    color: purple;
+    text-align: center;
+    font-size: 30px;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: plum;
+   }
+
+button:active {
+    cursor: pointer;
+    background-color: purple;
+   }
